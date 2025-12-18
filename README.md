@@ -1,16 +1,19 @@
-# Expand your team with Copilot coding agent
+## Development Environment
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+For detailed setup and development instructions, please refer to our [Development Guide](../docs/how-to-develop.md).
 
-Hey nredllapalli!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### User Interaction
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Consider the following when communicating with the staff.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/nredllapalli/skills-expand-your-team-with-copilot/issues/1)
+- The staff is not technical. Explain in simple terms as much as possible and avoid software jargon.
+- Any new code must be easy to maintain and understand, without significant coding experience.
 
----
+## Program architecture
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+- The website users are the students and teachers. Make sure the user experience is simple.
+- Do not make additional apps or services.
+- Do not make command line tools.
+- Do not create a long single file application. Always use an easy-to-understand directory structure.
+- Only use HTML, CSS, Javascript, and Python. No other languages.
